@@ -3,7 +3,7 @@ import { useState } from "react";
 import { HoveredLink, Menu, MenuItem, ProductItem } from "./ui/navbar-menu";
 import { cn } from "../lib/utils";
 
-import project1 from '../assets/SamsungProjectImages/ipad1.jpeg'
+import project1 from '../assets/SamsungProjectImages/iPad1.jpeg'
 import project2 from '../assets/aestheticOfMan.png'
 import project3 from '../assets/NewsWorldImages/macbookPro.jpeg'
 import project4 from '../assets/ShopPizza/adicionar.png'

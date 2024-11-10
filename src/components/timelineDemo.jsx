@@ -3,7 +3,7 @@ import { Timeline } from "./ui/timeline";
 import VerifiedIcon from '@mui/icons-material/Verified';
 import image1 from '../assets/SamsungProjectImages/iPad1.jpeg'
 import image2 from '../assets/SamsungProjectImages/desktop.jpeg'
-import image3 from '../assets/SamsungProjectImages/iphone14.jpeg'
+import image3 from '../assets/SamsungProjectImages/iPhone14.jpeg'
 import image4 from '../assets/SamsungProjectImages/iPad2.jpeg'
 import image5 from '../assets/aestheticOfMan.png'
 import image6 from '../assets/aestheticOfManDesktop.png'
